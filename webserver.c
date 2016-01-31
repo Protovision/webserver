@@ -18,7 +18,7 @@ char webdir[512];
 
 void help() {
 	fputs(
-		"Mark's Simple Webserver\n"
+		"Simple Webserver\n"
 		"Usage: webserver [port] [webdir]\n",
 		stdout
 	);
